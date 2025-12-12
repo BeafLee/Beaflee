@@ -3,7 +3,7 @@
   <h3>Full Stack Developer</h3>
   
   <p>
-    <em>"Crear soluciones que faciliten la vida a los usuarios, <br>aunque eso complique las cosas para el desarrollador."</em>
+    <em>"Diseñando soluciones robustas bajo el capó, para una experiencia sin fricción en la superficie."</em>
   </p>
 
   <a href="https://carloschung.dev">
